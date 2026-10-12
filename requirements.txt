@@ -1,0 +1,13 @@
+# Python 3.10+ recommended
+
+# Telegram Bot framework (async)
+python-telegram-bot>=21.0,<22.0
+
+# Telethon for userbot / MTProto sessions
+Telethon>=1.36.0,<2.0
+
+# Optional but recommended for faster Telethon crypto
+cryptg>=0.4.0
+
+# Optional: only if you use proxies
+# python-socks[asyncio]>=2.4.4
