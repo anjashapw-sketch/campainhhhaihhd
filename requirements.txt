@@ -3,3 +3,4 @@ aiogram>=3.25,<4
 pymongo>=4.13,<5
 dnspython>=2.6,<3
 aiohttp>=3.9,<4
+qrcode[pil]>=7.4,<9
